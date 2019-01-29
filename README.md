@@ -1,4 +1,4 @@
-# react-webpack-typescript-boilerplate
+# react-webpack-typescript
 
 I decided to post my boilerplate code for using React 16.3, Webpack 4, Sass and Typescript.
 This is everythig you need to get up and running with typescript, react, sass and webpack.
