@@ -10,7 +10,3 @@ This is everythig you need to get up and running with typescript, react, sass an
 3: yarn / npm run dev for development
 4: Have fun coding
 5: yarn / npm run build to compile and build when ready to deploy
-
-# to do..
-
-configure eslint
